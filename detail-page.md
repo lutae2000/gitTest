@@ -1,0 +1,5 @@
+디테일 페이지
+
+AccountItem,Agent,Agent(Office),AgentGroup,BerthCode,BondedWarehouse,CategoryOfDeficiency,Commodity,ContainerShippingLine,ContainerTypeSize,Currency,CustomerCode,CustomerEmail,CustomerGroup,DelayRemark,ESVCTerminal,EquipmentFacility,EquipmentOwnership,EquipmentSize,EquipmentType,FreightKind,FreightType,Lane,LeaseTerm,LineShipping,Location,MovementPurpose,MovementStatus,Nation,PackageUnit,RHQAgentGroup,SalesPerson,ShuttleLane,ShuttleType,StevedorageCompany,Trade,TradeLaneRoute,TransportationMode,UNLocation,VendorCode,Vessel,VesselParticular,VGMSign,VVD,HrsDepCode,MnrCode
+
+22PCLUIN16E
